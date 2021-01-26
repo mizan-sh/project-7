@@ -1,0 +1,32 @@
+#img{
+    border: 1px solid red;
+    height:auto;
+    width: auto;
+}
+p{
+    color: red;
+    
+}
+h2{
+    color: blue;
+    text-align: cen ter;
+    text-decoration: underline;
+
+}
+#form{
+    border: 2px solid green;
+    background-color: green;
+    
+}
+#table{
+    color:black;
+    background-color:pink;
+    margin-bottom: 250px;
+    margin-left: 450px;
+    font-size:20px;
+    
+}
+#leg{
+    color:yellow;
+    font-size:40px;
+}
